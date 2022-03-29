@@ -1,0 +1,3 @@
+﻿  serv.cpp
+D:\Project\Hack_project1\serv\serv.cpp(35,29): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  serv.vcxproj -> D:\Project\Hack_project1\serv\x64\Debug\serv.exe

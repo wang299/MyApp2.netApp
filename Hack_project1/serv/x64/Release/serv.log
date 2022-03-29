@@ -1,0 +1,8 @@
+﻿  serv.cpp
+D:\Project\Hack_project1\serv\serv.cpp(113,28): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  正在生成代码
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  serv.vcxproj -> D:\Project\Hack_project1\serv\x64\Release\serv.exe
